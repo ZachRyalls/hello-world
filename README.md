@@ -1,2 +1,3 @@
 # hello-world
-doing as told
+
+my name is jordy i am five and i am small
